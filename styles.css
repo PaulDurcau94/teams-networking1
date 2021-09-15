@@ -3,7 +3,11 @@
     padding: 5px;
 }
 
-
+#list th {
+    background-color: #00aeef;
+    color: #fff;
+    text-align : center;
+}
 
 #list {
     width: 100%;
